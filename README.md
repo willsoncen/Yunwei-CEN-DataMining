@@ -1,4 +1,4 @@
-# Yunwei-CEN-DataMining
+Yunwei-CEN-DataMining
 
 一、注册gothub账号
 
@@ -11,12 +11,9 @@
       ⑤在该界面下方跳出来的方框中输入本github账号的用户名，后点击Continue按钮
       ⑥Email perferences选项可不选，提示是否接受产品更新的邮件通知，之后点击Continue
       ⑦接下来会要求验证账户，验证人机，根据页面提示操作
-      
-      
-      
-      
+      ⑧检查邮箱是否有github邮件，如有根据邮箱指示操作；如无，请等待
 二、建立项目Yunwei-Cen-DataMining
-
+    
 三、上传自己的PPT到项目中
 
 四、想学习的计算机技能
