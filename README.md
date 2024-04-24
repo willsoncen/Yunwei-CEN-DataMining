@@ -1,6 +1,7 @@
 # Yunwei-CEN-DataMining
 
 一、注册gothub账号
+
     1、前期准备：一个可以正常接收邮件的邮箱；
     2、具体操作：
       ①浏览器键入github.com
