@@ -13,7 +13,11 @@ Yunwei-CEN-DataMining
       ⑦接下来会要求验证账户，验证人机，根据页面提示操作
       ⑧检查邮箱是否有github邮件，如有根据邮箱指示操作；如无，请等待
 二、建立项目Yunwei-Cen-DataMining
-    
+    ①登录github账户之后返回github首页
+    ②点击右上角加号标志的导航按钮
+    ③点击New repository
+    ④输入项目名字
+    ⑤点击下方的Create repository
 三、上传自己的PPT到项目中
 
 四、想学习的计算机技能
