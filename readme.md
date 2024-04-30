@@ -9,35 +9,34 @@
 1. **访问GitHub**: 打开浏览器，输入 `github.com` 并访问。
 2. **注册**: 点击页面右上角的 `Sign up` 按钮。
 ![image](/image/图片1.png)
-
 3. **输入邮箱**: 在弹出的窗口中输入你的邮箱地址，核对格式无误后点击 `Continue`。
-![alt text](图片2.png)
+![image](/image/图片2.png)
 4. **设置密码**: 输入你想要设置的密码，完成后点击 `Continue`。
-![alt text](图片3.png)
+![image](/image/图片3.png)
 5. **选择用户名**: 输入你想要的GitHub用户名，完成后点击 `Continue`。
-![alt text](图片4.png)
+![image](/image/图片4.png)
 6. **邮箱偏好设置**: （可选）调整邮件通知偏好，然后点击 `Continue`。
-![alt text](图片5.png)
+![image](/image/图片5.png)
 7. **验证账户**: 根据页面提示完成人机验证。
-![alt text](图片6.png)
+![image](/image/图片6.png)
 8. **邮箱验证**: 查收邮箱中的GitHub验证邮件，并根据邮件指引完成验证步骤。
 
 ## 二、创建项目（以 `Yunwei-CEN-DataMining`为例）
 
 1. **登录**: 登录你的GitHub账户，返回GitHub首页。
 2. **新建仓库**: 点击右上角的加号图标，然后选择 `New repository`。
-![alt text](图片7.png)
+![image](/image/图片7.png)
 3. **命名仓库**: 输入项目名称 `Yunwei-CEN-DataMining`，中间的仓库属性可选。
-![alt text](图片8.png)
+![image](/image/图片8.png)
 4. **创建**: 完成仓库信息填写后，点击 `Create repository`。
 
 ## 三、上传PPT至项目
 
 1. **返回主页**: 登录GitHub后，回到GitHub首页，在左侧导航栏可以看到先前创建的 `Yunwei-CEN-DataMining` 项目。
-![alt text](图片9.png)
+![image](/image/图片9.png)
 2. **选择项目**: 点击进入 `Yunwei-CEN-DataMining` 项目页面。
 3. **添加文件**: 在页面顶部导航栏，点击 `Add file`，然后选择 `Upload files`，浏览并上传你的PPT文件。
-![alt text](图片10.png)
+![image](/image/图片10.png)
 4. **提交**: 填写提交信息，点击 `Commit changes` 完成上传。
 
 ## 四、想学习的计算机技能
