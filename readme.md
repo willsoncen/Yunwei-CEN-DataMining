@@ -8,7 +8,7 @@
 ### 具体步骤
 1. **访问GitHub**: 打开浏览器，输入 `github.com` 并访问。
 2. **注册**: 点击页面右上角的 `Sign up` 按钮。
-[图片1]（https://github.com/willsoncen/Yunwei-CEN-DataMining/blob/main/image/%E5%9B%BE%E7%89%871.png）
+![图片1]（https://github.com/willsoncen/Yunwei-CEN-DataMining/blob/main/image/%E5%9B%BE%E7%89%871.png）
 3. **输入邮箱**: 在弹出的窗口中输入你的邮箱地址，核对格式无误后点击 `Continue`。
 ![alt text](图片2.png)
 4. **设置密码**: 输入你想要设置的密码，完成后点击 `Continue`。
