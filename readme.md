@@ -1,4 +1,4 @@
-# Yunwei-CEN-DataMining 操作指南
+# YunweicenDataMining 作业
 
 ## 一、注册GitHub账号
 
